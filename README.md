@@ -33,7 +33,8 @@ Ziel des Projekts ist es, das Interesse an der Einzigartigkeit der Kölschen Spr
    - Sobald das Projekt etwas etabliert ist, möchten wir Vereine, die sich mit der Kölschen Sprache beschäftigen (wie die Akademie för uns Kölsche Sproch), ansprechen. Ziel ist es, eine mögliche Zusammenarbeit zu beginnen oder das Projekt in erfahrene Hände zu übergeben, um die Reichweite und Nachhaltigkeit zu sichern.
 
 ## Arbeitsteilung
-- **A**: Wortsammlung und Themenauswahl
-- **B**: Verwaltung der Google-Tabelle und Zeitplanung
-- **C**: Erstellung der Quizfragen und Pflege der Inhalte
-- **D**: Öffentlichkeitsarbeit und Nutzerbeteiligung
+- **A**: Wortsammlung und Themenauswahl MGA, FM
+- **B**: Verwaltung der Google-Tabelle und Zeitplanung MGA
+- **C**: Erstellung der Quizfragen und Pflege der Inhalte FM
+- **D**: Öffentlichkeitsarbeit und Nutzerbeteiligung FM, MGA
+- **E**: Bilder erstellen MGA
