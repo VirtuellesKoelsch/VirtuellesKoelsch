@@ -23,7 +23,7 @@ Die Inhalte werden mit Hilfe von Autodone automatisiert gepostet. Der folgende P
    - Zeitraum: 01.01.2025 – 07.01.2025  
    - Quiz: 07.01.2025  
 
-4. **Gemütlich zu Hause im Herbst (Kürbis, Decke, Tee, Buch)**  
+4. **Gemütlich zu Hause im Herbst**  
    - Zeitraum: 08.01.2025 – 14.01.2025  
    - Quiz: 14.01.2025  
 
