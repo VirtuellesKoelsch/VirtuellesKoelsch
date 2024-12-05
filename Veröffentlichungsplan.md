@@ -52,8 +52,8 @@ Die Inhalte werden mit Hilfe von Autodone automatisiert gepostet. Der folgende P
     - Quiz: 13.02.2025   
 
 11. **Gemütlich zu Hause im Herbst**
-   - Zeitraum: 13.02.2025 – 19.02.2025  
-   - Quiz: 19.02.2025
+    - Zeitraum: 13.02.2025 – 19.02.2025  
+    - Quiz: 19.02.2025
 ---
 
 ### Seminarstatus und Meilensteine
