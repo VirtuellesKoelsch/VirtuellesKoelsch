@@ -3,11 +3,9 @@
 ## Projektbeschreibung
 Ziel des Projekts ist es, das Interesse an der Einzigartigkeit der Kölschen Sprache zu fördern, die Besonderheiten des lokalen Dialekts zu bewahren und ihn einem breiteren Publikum zugänglich zu machen. Die jüngere Generation in Köln spricht oft kaum Kölsch oder hat nur passive Sprachkenntnisse. Durch unser Projekt soll das Verständnis für den Dialekt und seine Wertschätzung gestärkt werden.
 
-## Aufgabestellung
-
 ## Arbeitsschritte
 1. **Wortsammlung**: Jede Woche wird ein Thema definiert, zu dem passende Kölsche Wörter und Ausdrücke gesammelt werden.
-2. **Planung und Struktur**: Die Wörter werden in eine CSV-Datei eingetragen, die Autodone zur automatischen Veröffentlichung auf Mastodon verwendet. 
+2. **Planung und Struktur**: Die Wörter werden in eine TSV-Datei eingetragen, die Autodone zur automatischen Veröffentlichung auf Mastodon verwendet. 
 3. **Automatisiertes Posten**: Mit Autodone werden die Beiträge automatisiert nach geplantem Zeitplan veröffentlicht.
 4. **Interaktive Quizfragen**: Am Ende jeder Woche wird ein Quiz gepostet, in dem die Nutzer die Bedeutungen der Wörter raten können.
 5. **Bildmaterial**: Für ausgewählte Beiträge fügen wir eigene Illustrationen hinzu, um die Inhalte visuell zu unterstützen.
@@ -33,8 +31,8 @@ Ziel des Projekts ist es, das Interesse an der Einzigartigkeit der Kölschen Spr
    - Sobald das Projekt etwas etabliert ist, möchten wir Vereine, die sich mit der Kölschen Sprache beschäftigen (wie die Akademie för uns Kölsche Sproch), ansprechen. Ziel ist es, eine mögliche Zusammenarbeit zu beginnen oder das Projekt in erfahrene Hände zu übergeben, um die Reichweite und Nachhaltigkeit zu sichern.
 
 ## Arbeitsteilung
-- Wortsammlung und Themenauswahl **MGA, FM**
-- Verwaltung der Google-Tabelle und Zeitplanung **MGA**
+- Wortsammlung und Themenauswahl **MG, FM**
+- Verwaltung der Google-Tabelle und Zeitplanung **MG**
 - Erstellung der Quizfragen und Pflege der Inhalte **FM**
-- Öffentlichkeitsarbeit und Nutzerbeteiligung **FM, MGA**
-- Bilder erstellen **MGA**
+- Öffentlichkeitsarbeit und Nutzerbeteiligung **FM, MG**
+- Bilder erstellen **MG**
