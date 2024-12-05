@@ -19,7 +19,7 @@ Die Inhalte werden mit Hilfe von Autodone automatisiert gepostet. Der folgende P
    - Zeitraum: 13.12.2024 – 19.12.2024  
    - Quiz: 19.12.2024 
 
-3.  **Weihnachtsmarkt – Weihnachtsmaat**  
+3. **Weihnachtsmarkt – Weihnachtsmaat**  
    - Zeitraum: 20.12.2024 – 26.12.2024
    - Quiz: 26.12.2024  
 
@@ -27,11 +27,11 @@ Die Inhalte werden mit Hilfe von Autodone automatisiert gepostet. Der folgende P
    - Zeitraum: 27.12.2024 – 02.01.2025
    - Quiz: 02.01.2025 
 
-5.   **Berufe – Wat arbeitest de dann?**  
+5. **Berufe – Wat arbeitest de dann?**  
    - Zeitraum: 03.01.2025 – 09.01.2025  
    - Quiz: 09.01.2025
 
-6.   **Karneval – Viva fastelovend!**  
+6. **Karneval – Viva fastelovend!**  
    - Zeitraum: 10.01.2025 – 16.01.2025  
    - Quiz: 16.01.2025
 
