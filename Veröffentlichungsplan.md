@@ -12,49 +12,48 @@ Die Inhalte werden mit Hilfe von Autodone automatisiert gepostet. Der folgende P
 ### Zeitplan für Themen
 
 1. **Sich vorstellen – dat ben isch**  
-   - Zeitraum: 18.12.2024 – 24.12.2024  
-   - Quiz: 24.12.2024  
+   - Zeitraum: 06.12.2024 – 12.12.2024  
+   - Quiz: 12.12.2024   
 
 2. **Obst und Gemüse – op däm Maat ston der Boore**  
-   - Zeitraum: 25.12.2024 – 31.12.2024  
-   - Quiz: 31.12.2024  
+   - Zeitraum: 13.12.2024 – 19.12.2024  
+   - Quiz: 19.12.2024 
 
-3. **Universität – liere**  
-   - Zeitraum: 01.01.2025 – 07.01.2025  
-   - Quiz: 07.01.2025  
+3.  **Weihnachtsmarkt – Weihnachtsmaat**  
+   - Zeitraum: 20.12.2024 – 26.12.2024
+   - Quiz: 26.12.2024  
 
-4. **Gemütlich zu Hause im Herbst**  
-   - Zeitraum: 08.01.2025 – 14.01.2025  
-   - Quiz: 14.01.2025  
+4. **Universität – liere**  
+   - Zeitraum: 27.12.2024 – 02.01.2025
+   - Quiz: 02.01.2025 
 
-5. **Weihnachtsmarkt – Weihnachtsmaat**  
-   - Zeitraum: 15.01.2025 – 21.01.2025  
-   - Quiz: 21.01.2025  
+5.   **Berufe – Wat arbeitest de dann?**  
+   - Zeitraum: 03.01.2025 – 09.01.2025  
+   - Quiz: 09.01.2025
 
-6. **Karneval – Viva fastelovend!**  
-   - Zeitraum: 22.01.2025 – 28.01.2025  
-   - Quiz: 28.01.2025  
+6.   **Karneval – Viva fastelovend!**  
+   - Zeitraum: 10.01.2025 – 16.01.2025  
+   - Quiz: 16.01.2025
 
-7. **Berufe – Wat arbeitest de dann?**  
-   - Zeitraum: 29.01.2025 – 04.02.2025  
-   - Quiz: 04.02.2025  
+7. **In einem Kölner Brauhaus bestellen**  
+   - Zeitraum: 17.01.2025 – 23.01.2025  
+   - Quiz: 23.01.2025  
 
-8. **In einem Kölner Brauhaus bestellen**  
-   - Zeitraum: 05.02.2025 – 11.02.2025  
-   - Quiz: 11.02.2025  
+8. **Bus und Bahn – Dürch der Stadt beweje**  
+   - Zeitraum: 24.01.2025 – 30.01.2025  
+   - Quiz: 30.01.2025  
 
-9. **Bus und Bahn – Dürch der Stadt beweje**  
-   - Zeitraum: 12.02.2025 – 18.02.2025  
-   - Quiz: 18.02.2025  
+9. **Tiere – Deere**  
+    - Zeitraum: 31.01.2025 – 06.02.2025  
+    - Quiz: 06.02.2025   
 
-10. **Tiere – Deere**  
-    - Zeitraum: 19.02.2025 – 25.02.2025  
-    - Quiz: 25.02.2025  
+10. **Kaffee bestellen – em Café**  
+    - Zeitraum: 07.02.2025 – 13.02.2025  
+    - Quiz: 13.02.2025   
 
-11. **Kaffee bestellen – em Café**  
-    - Zeitraum: 26.02.2025 – 03.03.2025  
-    - Quiz: 03.03.2025  
-
+12. **Gemütlich zu Hause im Herbst**  
+   - Zeitraum: 13.02.2025 – 19.02.2025  
+   - Quiz: 19.02.2025
 ---
 
 ### Seminarstatus und Meilensteine
