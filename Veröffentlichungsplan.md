@@ -21,39 +21,43 @@ Die Inhalte werden mit Hilfe von Autodone automatisiert gepostet. Der folgende P
 
 3. **Weihnachtsmarkt – Weihnachtsmaat**  
    - Zeitraum: 20.12.2024 – 26.12.2024
-   - Quiz: 26.12.2024  
-
-4. **Universität – liere**  
+   - Quiz: 26.12.2024
+  
+4. **Silvester**
    - Zeitraum: 27.12.2024 – 02.01.2025
-   - Quiz: 02.01.2025 
+   - Quiz: 02.01.2025
+
+5. **Universität – liere**  
+   - Zeitraum: 03.01.2025 – 09.01.2025
+   - Quiz: 09.01.2025 
 
 5. **Berufe – Wat arbeitest de dann?**  
-   - Zeitraum: 03.01.2025 – 09.01.2025  
-   - Quiz: 09.01.2025
+   - Zeitraum: 10.01.2025 – 16.01.2025  
+   - Quiz: 16.01.2025 
 
 6. **Karneval – Viva fastelovend!**  
-   - Zeitraum: 10.01.2025 – 16.01.2025  
-   - Quiz: 16.01.2025
+   - Zeitraum: 17.01.2025 – 23.01.2025  
+   - Quiz: 23.01.2025
 
 7. **In einem Kölner Brauhaus bestellen**  
-   - Zeitraum: 17.01.2025 – 23.01.2025  
-   - Quiz: 23.01.2025  
+   - Zeitraum: 24.01.2025 – 30.01.2025  
+   - Quiz: 30.01.2025 
 
 8. **Bus und Bahn – Dürch der Stadt beweje**  
-   - Zeitraum: 24.01.2025 – 30.01.2025  
-   - Quiz: 30.01.2025  
+   - Zeitraum: 31.01.2025 – 06.02.2025  
+   - Quiz: 06.02.2025   
 
 9. **Tiere – Deere**  
-    - Zeitraum: 31.01.2025 – 06.02.2025  
-    - Quiz: 06.02.2025   
-
-10. **Kaffee bestellen – em Café**  
-    - Zeitraum: 07.02.2025 – 13.02.2025  
+    - Zeitraum: 07.01.2025 – 13.02.2025  
     - Quiz: 13.02.2025   
 
+10. **Kaffee bestellen – em Café**  
+    - Zeitraum: 14.02.2025 – 20.02.2025  
+    - Quiz: 20.02.2025   
+
 11. **Gemütlich zu Hause im Herbst**
-    - Zeitraum: 13.02.2025 – 19.02.2025  
-    - Quiz: 19.02.2025
+    - Zeitraum: 21.02.2025 – 27.02.2025  
+    - Quiz: 27.02.2025
 ---
 
 ### Seminarstatus und Meilensteine
